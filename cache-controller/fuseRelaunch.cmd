@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "jsivalog/CacheController/TEST_isim_beh.exe" -prj "jsivalog/CacheController/TEST_beh.prj" "work.TEST" 

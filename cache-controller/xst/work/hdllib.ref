@@ -1,0 +1,14 @@
+AR ila ila_a /home/student1/jsivalog/Desktop/CacheController-master/ipcore_dir/ila.vhd sub00/vhpl13 1700032565
+EN cachecontroller NULL /home/student1/jsivalog/Desktop/CacheController-master/CacheController.vhd sub00/vhpl04 1700032566
+AR icon icon_a /home/student1/jsivalog/Desktop/CacheController-master/ipcore_dir/icon.vhd sub00/vhpl09 1700032563
+EN sdramcontroller NULL /home/student1/jsivalog/Desktop/CacheController-master/SDRAMController.vhd sub00/vhpl02 1700032558
+EN icon NULL /home/student1/jsivalog/Desktop/CacheController-master/ipcore_dir/icon.vhd sub00/vhpl08 1700032562
+EN cpu_gen NULL /home/student1/jsivalog/Desktop/CacheController-master/CPU_gen.vhd sub00/vhpl00 1700032556
+EN sram NULL /home/student1/jsivalog/Desktop/CacheController-master/ipcore_dir/SRAM.vhd sub00/vhpl06 1700032560
+AR sram sram_a /home/student1/jsivalog/Desktop/CacheController-master/ipcore_dir/SRAM.vhd sub00/vhpl07 1700032561
+AR cachecontroller behavioral /home/student1/jsivalog/Desktop/CacheController-master/CacheController.vhd sub00/vhpl05 1700032567
+AR cpu_gen behavioral /home/student1/jsivalog/Desktop/CacheController-master/CPU_gen.vhd sub00/vhpl01 1700032557
+EN vio NULL "jsivalog/CacheController/ipcore_dir/vio.vhd" sub00/vhpl10 1446418507
+AR sdramcontroller behavioral /home/student1/jsivalog/Desktop/CacheController-master/SDRAMController.vhd sub00/vhpl03 1700032559
+AR vio vio_a "jsivalog/CacheController/ipcore_dir/vio.vhd" sub00/vhpl11 1446418508
+EN ila NULL /home/student1/jsivalog/Desktop/CacheController-master/ipcore_dir/ila.vhd sub00/vhpl12 1700032564

@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "/home/student1/jsivalog/Desktop/CacheController/cache_controller.xst" -ofn "/home/student1/jsivalog/Desktop/CacheController/cache_controller.syr" 
+xst -intstyle ise -ifn "/home/student1/jsivalog/Desktop/CacheController/cache_controller.xst" -ofn "/home/student1/jsivalog/Desktop/CacheController/cache_controller.syr" 
+xst -intstyle ise -ifn "/home/student1/jsivalog/Desktop/CacheController/cache_controller.xst" -ofn "/home/student1/jsivalog/Desktop/CacheController/cache_controller.syr" 
