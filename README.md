@@ -5,7 +5,8 @@ The Cache Controller System-on-Chip (SoC) was designed, developed, and simulated
 ---
 
 ## Cache Controller Systems Design
-<img src="https://github.com/janakan2466/cache-controller/assets/72175053/6d8e3f38-9d23-44af-8f2b-f2c383f9d673" alt="cache-systems-design" width="1000">
+<img src="https://github.com/janakan2466/cache-controller/assets/72175053/270e80e7-2c6a-413b-a33d-2c02a1d80063)" alt="cache-organizations" width="1000">
 
 ## Cache Organization
-<img src="https://github.com/janakan2466/cache-controller/assets/72175053/ab0ff9a7-fd68-474d-bc23-9a5ae5ac5760" alt="cache-organizations" width="1000">
+<img src="https://github.com/janakan2466/cache-controller/assets/72175053/c1103713-a228-43c7-b6e4-3054ef42669d" alt="cache-systems-design" width="1000">
+
